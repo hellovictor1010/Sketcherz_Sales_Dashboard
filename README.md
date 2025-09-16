@@ -1,58 +1,86 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta http-equiv="content-language" content="en">
-    <meta http-equiv="content-script-type" content="text/javascript">
-    <meta http-equiv="content-style-type" content="text/css">
-    <meta name="description" content="This is the online markdown editor with live preview.">
 
-    <link rel="stylesheet" type="text/css" href="css/style.css?v=1.10.1">
-    <link rel="icon" type="image/png" href="favicon.png">
-    <title>Markdown Live Preview</title>
-    <script type="module" crossorigin src="/assets/index-DXVBtf7Z.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-C-vOJggO.css">
-  </head>
+# 📊 Excel Sales Dashboard – Sketcherz Project
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-77C1GEG9C8"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+![Excel](https://img.shields.io/badge/Tool-Excel-green?logo=microsoft-excel&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/Domain-Data%20Analytics-blue?logo=databricks&logoColor=white)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
-    gtag('config', 'G-77C1GEG9C8');
-  </script>
+🚀 Welcome to my **Excel Sales Dashboard Project**!  
+This project showcases how raw sales data can be transformed into **actionable business insights** using Excel.  
 
-  <body>
+---
 
-    <header>
-        <div id="menu-items">
-            <div><a href="/">Markdown Live Preview</a></div>
-            <div id="reset-button"><a href="#">Reset</a></div>
-            <div id="copy-button"><a href="#">Copy</a></div>
-            <div id="sync-button"><input type="checkbox" id="sync-scroll-checkbox"><label for="sync-scroll-checkbox">Sync scroll</label></div>
-        </div>
-        <div id="github"><a href="https://github.com/tanabe/markdown-live-preview"><img src="image/GitHub-Mark-Light-32px.webp"></a></div>
-    </header>
+## ✨ Project Highlights  
 
-    <div id="container" class="split-container">
+✅ **Interactive Dashboard** powered by Pivot Tables & Charts  
+✅ **Dynamic Filters** with Slicers for easy analysis  
+✅ **KPI Cards** to track key business metrics  
+✅ **Conditional Formatting** for highlighting trends  
 
-        <div id="edit" class="column editor-pane">
-            <div id="editor-wrapper">
-                <div id="editor"></div>
-            </div>
-        </div>
+---
 
-        <div id="split-divider" class="split-divider"></div>
+## 🔎 Key Insights  
 
-        <div id="preview" class="column preview-pane">
-            <div id="preview-wrapper">
-                <div id="output" class="content markdown-body"></div>
-            </div>
-        </div>
-    </div>
+- 👟 **Footwear** contributes the highest sales share  
+- 🛒 **Outlet sales channel** shows strong profitability  
+- 🌍 **Northeast region** is the top-performing market  
 
-    <footer></footer>
-  </body>
-</html>
+---
+
+## 🛠️ Tools & Skills Used  
+
+- Microsoft Excel  
+- Pivot Tables & Pivot Charts  
+- Data Cleaning & Transformation  
+- Dashboard Design (KPIs, Charts, Slicers)  
+- Data Visualization Best Practices  
+
+---
+
+## 📷 Dashboard Preview  
+
+👉 *(Add a screenshot or GIF of your dashboard here!)*  
+
+```markdown
+![Dashboard Preview](your-screenshot.png)
+````
+
+---
+
+## 📂 Project Files
+
+* **SketchersSalesdata.xlsx** → Raw dataset used for analysis
+* **Excel Dashboard File** → Final interactive dashboard
+
+---
+
+## 🚀 How This Project Helps
+
+This project demonstrates how Excel can be used to:
+
+* Track **sales performance**
+* Identify **profitable channels & regions**
+* Support **data-driven decision-making**
+
+---
+
+## 💡 Future Enhancements
+
+* 📈 Add **Trend Analysis** (Year-over-Year growth)
+* 🔮 Incorporate **Forecasting Models** for sales predictions
+* ⚡ Automate reports using **Power Query** or **Macros**
+
+---
+
+## 👤 About Me
+
+Hi, I’m **Piyush Singh**, an aspiring **Data Analyst**.
+I love turning raw data into **meaningful insights** and building **interactive dashboards**.
+
+📬 Let’s connect on [LinkedIn](https://linkedin.com)
+
+---
+
+✨ *If you like this project, don’t forget to ⭐ the repo!*
+
+
