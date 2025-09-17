@@ -41,9 +41,7 @@ This project showcases how raw sales data can be transformed into **actionable b
 
 - <a href="https://github.com/hellovictor1010/Sketcherz_Sales_Dashboard/blob/main/Dashboard%20Image.png">View Dashboard</a>
 
-````
-
----
+```
 
 ## 📂 Project Files
 
