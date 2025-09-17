@@ -39,10 +39,8 @@ This project showcases how raw sales data can be transformed into **actionable b
 
 ## 📷 Dashboard Preview  
 
-👉 *(Add a screenshot or GIF of your dashboard here!)*  
-
 ```markdown
-![Dashboard Preview](your-screenshot.png)
+![Dashboard Preview](<img width="1886" height="907" alt="Image" src="https://github.com/user-attachments/assets/5ad258a8-73d1-4b91-9535-3f56df0207eb" />)
 ````
 
 ---
