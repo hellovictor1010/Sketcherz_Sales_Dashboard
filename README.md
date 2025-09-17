@@ -40,7 +40,7 @@ This project showcases how raw sales data can be transformed into **actionable b
 ## 📷 Dashboard Preview  
 
 ```markdown
-![Dashboard Preview](<img width="1886" height="907" alt="Image" src="https://github.com/user-attachments/assets/5ad258a8-73d1-4b91-9535-3f56df0207eb" />)
+<img width="1886" height="907" alt="Image" src="https://github.com/user-attachments/assets/f3dcaf45-c8dc-4c24-99d2-903e1f957966" />
 ````
 
 ---
