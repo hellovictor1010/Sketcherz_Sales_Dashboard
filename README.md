@@ -40,7 +40,7 @@ This project showcases how raw sales data can be transformed into **actionable b
 ## 📷 Dashboard Preview  
 
 ```markdown
-<img width="1886" height="907" alt="Screenshot 2025-09-12 190251" src="https://github.com/user-attachments/assets/23f5c58b-685e-40ac-b8a4-90a44b864fb4" />
+<a href= https://github.com/hellovictor1010/Sketcherz_Sales_Dashboard/blob/main/Dashboard%20Image.png>View Dashboard</a>
 
 ````
 
